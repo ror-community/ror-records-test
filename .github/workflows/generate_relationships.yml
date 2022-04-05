@@ -28,18 +28,17 @@ jobs:
           pip install git+https://github.com/ror-community/update_address.git
           curl https://raw.githubusercontent.com/ror-community/ror-api/dev/rorapi/management/commands/generaterelationships.py -o generaterelationships.py
           python generaterelationships.py relationships.csv
-        continue-on-error: true
       - name: commit error file
         if: ${{ steps.genrelshp.outcome != 'success'}}
         working-directory: ${{ steps.extract_branch.outputs.branch }}
         run: |
-          echo "ERRORS found:"
+          echo "ERRORS found for some records:"
           cat relationship_errors.log
       - name: commit changed files
         if: ${{ steps.genrelshp.outcome == 'success'}}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: ${{ steps.extract_branch.outputs.branch }}/*.json
+          file_pattern: ${{ steps.extract_branch.outputs.branch }}/*/*.json
           commit_message: Apply relationship changes to files
       - name: Set env variable for notification
         run: |
