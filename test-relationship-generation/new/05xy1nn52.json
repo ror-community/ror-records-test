@@ -19,13 +19,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "University of Göttingen",
-      "type": "Parent",
-      "id": "https://ror.org/01y9bpm73"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05xy1nn52",
   "labels": [],

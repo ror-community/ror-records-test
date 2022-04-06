@@ -21,13 +21,7 @@
     }
   },
   "established": 1983,
-  "relationships": [
-    {
-      "label": "Molecular Devices (United Kingdom)",
-      "type": "Child",
-      "id": "https://ror.org/03y8xh662"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0018wmh19",
   "labels": [],

@@ -21,13 +21,7 @@
     }
   },
   "established": 2002,
-  "relationships": [
-    {
-      "label": "Tula Foundation",
-      "type": "Parent",
-      "id": "https://ror.org/0029jxk29"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02pry0c91",
   "labels": [],
