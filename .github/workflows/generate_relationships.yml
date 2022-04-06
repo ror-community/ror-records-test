@@ -18,14 +18,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
-      - name: Get working directory name
-        run: |
-          if [[ -v ${{ github.event.inputs.directory-name }} ]]; then
-            echo ${{ github.event.inputs.directory-name }}
-            echo "WORKING_DIR=${{ github.event.inputs.directory-name }}" >> $GITHUB_ENV
-          else
-            echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
-          fi
+      - name: Get directory name
+        if: "${{ github.event.inputs.directory-name != '' }}"
+        run: echo "WORKING_DIR=${{ github.event.inputs.directory-name }}" >> $GITHUB_ENV
+      - name: Get branch name
+        if: "${{ github.event.inputs.directory-name == '' }}"
+        run: echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
       - name: Generate relationships
         id: genrelshp
         working-directory: ${{ env.WORKING_DIR }}
