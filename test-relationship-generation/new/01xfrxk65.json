@@ -25,13 +25,7 @@
     }
   },
   "established": 1853,
-  "relationships": [
-    {
-      "label": "California Department of Conservation",
-      "type": "Parent",
-      "id": "https://ror.org/00vmaka31"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01xfrxk65",
   "labels": [],

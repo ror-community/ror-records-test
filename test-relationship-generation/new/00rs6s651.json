@@ -23,13 +23,7 @@
     }
   },
   "established": 1918,
-  "relationships": [
-    {
-      "label": "National University of San Marcos",
-      "type": "Parent",
-      "id": "https://ror.org/006vs7897"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00rs6s651",
   "labels": [

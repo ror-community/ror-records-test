@@ -17,13 +17,7 @@
     }
   },
   "established": 1903,
-  "relationships": [
-    {
-      "label": "Connecticut Department of Energy and Environmental Protection",
-      "type": "Parent",
-      "id": "https://ror.org/02hv6yw42"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02ts2sn48",
   "labels": [],

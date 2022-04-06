@@ -21,13 +21,7 @@
     }
   },
   "established": 1981,
-  "relationships": [
-    {
-      "label": "Slovenian Academy of Sciences and Arts",
-      "type": "Related",
-      "id": "https://ror.org/04evj0n95"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04zvj8c18",
   "labels": [],

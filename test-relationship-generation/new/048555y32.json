@@ -18,13 +18,7 @@
     }
   },
   "established": null,
-  "relationships": [
-    {
-      "label": "Lund University",
-      "type": "Parent",
-      "id": "https://ror.org/012a77v79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/048555y32",
   "labels": [
