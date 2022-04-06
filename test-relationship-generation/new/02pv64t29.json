@@ -10,13 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 1962,
-  "relationships": [
-    {
-      "label": "United States Geological Survey",
-      "type": "Parent",
-      "id": "https://ror.org/035a68863"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02pv64t29",
   "labels": [],

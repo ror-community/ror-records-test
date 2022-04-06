@@ -10,13 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "United States Department of Energy",
-      "type": "Parent",
-      "id": "https://ror.org/01bj3aw27"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01znn6x10",
   "labels": [],

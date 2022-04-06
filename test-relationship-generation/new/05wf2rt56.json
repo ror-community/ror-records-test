@@ -23,13 +23,7 @@
     }
   },
   "established": 2015,
-  "relationships": [
-    {
-      "label": "Ministry of Education and Science",
-      "type": "Parent",
-      "id": "https://ror.org/03bra4w96"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05wf2rt56",
   "labels": [

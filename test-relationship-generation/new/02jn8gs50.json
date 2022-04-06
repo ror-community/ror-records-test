@@ -23,13 +23,7 @@
     }
   },
   "established": 1966,
-  "relationships": [
-    {
-      "label": "Sociedade Brasileira de Psicologia",
-      "type": "Related",
-      "id": "https://ror.org/03w7hce19"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02jn8gs50",
   "labels": [

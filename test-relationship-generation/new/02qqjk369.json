@@ -17,13 +17,7 @@
     }
   },
   "established": 1999,
-  "relationships": [
-    {
-      "label": "National Academy of Educational Sciences of Ukraine",
-      "type": "Parent",
-      "id": "https://ror.org/05h1pdj54"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/02qqjk369",
   "labels": [

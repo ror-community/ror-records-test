@@ -12,23 +12,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2021,
-  "relationships": [
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "Parent",
-      "id": "https://ror.org/02feahw73"
-    },
-    {
-      "label": "University of Strasbourg",
-      "type": "Parent",
-      "id": "https://ror.org/00pg6eq24"
-    },
-    {
-      "label": "National School for Water and Environmental Engineering",
-      "type": "Parent",
-      "id": "https://ror.org/02jhjzd11"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0530qwm02",
   "labels": [

@@ -17,13 +17,7 @@
     }
   },
   "established": 1981,
-  "relationships": [
-    {
-      "label": "Ministry of Health",
-      "type": "Parent",
-      "id": "https://ror.org/04gq6mn61"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00s582952",
   "labels": [

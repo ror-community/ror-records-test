@@ -10,13 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "National Aviation University",
-      "type": "Parent",
-      "id": "https://ror.org/01f74x078"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04pd1hv08",
   "labels": [
