@@ -46,6 +46,7 @@ jobs:
           file_pattern:  ${{ env.WORKING_DIR }}/*/*.json
           commit_message: Apply relationship changes to files
       - name: Set env variable for notification
+        if: always()
         run: |
           if [[ ${{ steps.genrelshp.outcome }} == 'success' ]]; then
             echo "relationship_status=SUCCESS" >> $GITHUB_ENV
