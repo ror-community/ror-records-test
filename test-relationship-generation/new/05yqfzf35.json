@@ -25,13 +25,7 @@
     }
   },
   "established": 1987,
-  "relationships": [
-    {
-      "label": "French National Centre for Scientific Research",
-      "type": "Related",
-      "id": "https://ror.org/02feahw73"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05yqfzf35",
   "labels": [],

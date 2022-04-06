@@ -12,13 +12,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": null,
-  "relationships": [
-    {
-      "label": "North Carolina Department of Environment and Natural Resources",
-      "type": "Parent",
-      "id": "https://ror.org/01ftg8r37"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03qhydd02",
   "labels": [],

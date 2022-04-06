@@ -10,13 +10,7 @@
   "wikipedia_url": "https://doesnotexist.butIhavetofillthisfield",
   "external_ids": {},
   "established": 2009,
-  "relationships": [
-    {
-      "label": "Bundesamt für Bauwesen und Raumordnung",
-      "type": "Parent",
-      "id": "https://ror.org/04hqtn844"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01zy7yh11",
   "labels": [],

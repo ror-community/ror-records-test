@@ -17,13 +17,7 @@
     }
   },
   "established": 2019,
-  "relationships": [
-    {
-      "label": "Code for Science & Society",
-      "type": "Related",
-      "id": "https://ror.org/01dmavx46"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0588n4k65",
   "labels": [],
