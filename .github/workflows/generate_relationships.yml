@@ -1,10 +1,9 @@
 name: Create relationships
 on:
-  workflow_dispatch
+  workflow_dispatch:
     inputs:
       directory-name:
         type: string
-        required: false
         description: Name of parent directory containing records to generate relationships for. Needed only if different from branch name.
 
 jobs:
