@@ -1,0 +1,74 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "De MuseumFabriek"
+  ],
+  "acronyms": [
+    "DMF"
+  ],
+  "links": [
+    "https://demuseumfabriek.nl"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/De_Museumfabriek",
+  "external_ids": {
+    "ISNI": {
+      "preferred": "0000 0004 1784 7312",
+      "all": [
+        "0000 0004 1784 7312"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q2203052",
+      "all": [
+        "Q2203052"
+      ]
+    }
+  },
+  "established": 2008,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/050qgke16",
+  "labels": [],
+  "status": "active",
+  "name": "The MuseumFactory",
+  "types": [
+    "Archive"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2756071,
+        "city": "Enschede",
+        "geonames_admin1": {
+          "name": "Overijssel",
+          "ascii_name": "Overijssel",
+          "id": 2748838,
+          "code": "NL.15"
+        },
+        "geonames_admin2": {
+          "name": "Gemeente Enschede",
+          "ascii_name": "Gemeente Enschede",
+          "id": 2756070,
+          "code": "NL.15.0153"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 52.21833,
+      "lng": 6.89583,
+      "country_geonames_id": 2750405,
+      "city": "Enschede"
+    }
+  ],
+  "country": {
+    "country_name": "Netherlands",
+    "country_code": "NL"
+  }
+}

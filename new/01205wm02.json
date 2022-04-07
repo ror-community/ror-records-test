@@ -1,0 +1,77 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "MSU",
+    "ISU",
+    "МСУ"
+  ],
+  "links": [
+    "https://msu.edu.mk/"
+  ],
+  "wikipedia_url": "https://mk.wikipedia.org/wiki/Меѓународен_славјански_универзитет_„Гаврило_Романович_Державин“",
+  "external_ids": {
+    "ISNI": {
+      "preferred": "0000 0005 0603 8664",
+      "all": [
+        "0000 0005 0603 8664"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q12909391",
+      "all": [
+        "Q12909391"
+      ]
+    }
+  },
+  "established": 2004,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/01205wm02",
+  "labels": [
+    {
+      "label": "Меѓународен Славјански Универзитет Гаврило Романович Державин",
+      "iso639": "mk"
+    },
+    {
+      "label": "Международный славянский университет (МСУ) “Гаврило Романович Державин”",
+      "iso639": "ru"
+    }
+  ],
+  "status": "active",
+  "name": "International Slavic University Gavrilo Romanovich Derzhavin",
+  "types": [
+    "Education"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 863905,
+        "city": "Sveti Nikole",
+        "geonames_admin1": {
+          "name": "Sveti Nikole",
+          "ascii_name": "Sveti Nikole",
+          "id": 863905,
+          "code": "MK.A4"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 41.9,
+      "lng": 21.98333,
+      "country_geonames_id": 718075,
+      "city": "Sveti Nikole"
+    }
+  ],
+  "country": {
+    "country_name": "North Macedonia",
+    "country_code": "MK"
+  }
+}

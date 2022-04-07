@@ -1,0 +1,60 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "IGaP-TS",
+    "IGaP"
+  ],
+  "links": [
+    "https://www.igap-ts.it"
+  ],
+  "wikipedia_url": null,
+  "external_ids": {},
+  "established": 2018,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/02geg2v41",
+  "labels": [],
+  "status": "active",
+  "name": "Institute for Geometry and Physics",
+  "types": [
+    "Education"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 3165185,
+        "city": "Trieste",
+        "geonames_admin1": {
+          "name": "Friuli Venezia Giulia",
+          "ascii_name": "Friuli Venezia Giulia",
+          "id": 3176525,
+          "code": "IT.06"
+        },
+        "geonames_admin2": {
+          "name": "Trieste",
+          "ascii_name": "Trieste",
+          "id": 3165184,
+          "code": "IT.06.TS"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 45.64953,
+      "lng": 13.77678,
+      "country_geonames_id": 3175395,
+      "city": "Trieste"
+    }
+  ],
+  "country": {
+    "country_name": "Italy",
+    "country_code": "IT"
+  }
+}

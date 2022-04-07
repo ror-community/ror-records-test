@@ -1,0 +1,81 @@
+Issue # from Github,Issue URL,Issue title from Github,Name of org in Record ID,Record ID,Related ID,Name of org in Related ID,Relationship of Related ID to Record ID,Current location of Related ID
+416,https://github.com/ror-community/ror-updates/issues/416,"Add a new organization to ROR: 
+ 
+Institute for Social and Political Psychology",Institute of Social and Political Psychology,https://ror.org/05cw90x73,https://ror.org/05h1pdj54,National Academy of Educational Sciences of Ukraine,Parent,Production
+416,https://github.com/ror-community/ror-updates/issues/416,"Add a new organization to ROR: 
+ 
+Institute for Social and Political Psychology",National Academy of Educational Sciences of Ukraine,https://ror.org/05h1pdj54,https://ror.org/05cw90x73,Institute of Social and Political Psychology,Child,Release
+524,https://github.com/ror-community/ror-updates/issues/524,"Add a new organization to ROR: 
+ 
+Institute for Geometry and Physics",Institute for Geometry and Physics,https://ror.org/02geg2v41,https://ror.org/004fze387,International School for Advanced Studies,Parent,Production
+524,https://github.com/ror-community/ror-updates/issues/524,"Add a new organization to ROR: 
+ 
+Institute for Geometry and Physics",International School for Advanced Studies,https://ror.org/004fze387,https://ror.org/02geg2v41,Institute for Geometry and Physics,Child,Release
+524,https://github.com/ror-community/ror-updates/issues/524,"Add a new organization to ROR: 
+ 
+Institute for Geometry and Physics",Institute for Geometry and Physics,https://ror.org/02geg2v41,https://ror.org/009gyvm78,International Centre for Theoretical Physics,Parent,Production
+524,https://github.com/ror-community/ror-updates/issues/524,"Add a new organization to ROR: 
+ 
+Institute for Geometry and Physics",International Centre for Theoretical Physics,https://ror.org/009gyvm78,https://ror.org/02geg2v41,Institute for Geometry and Physics,Child,Release
+451,https://github.com/ror-community/ror-updates/issues/451,"Add a new organization to ROR: 
+ 
+University Museum Utrecht",University Museum Utrecht,https://ror.org/03wvf6198,https://ror.org/04pp8hn57,Utrecht University,Parent,Production
+451,https://github.com/ror-community/ror-updates/issues/451,"Add a new organization to ROR: 
+ 
+University Museum Utrecht",Utrecht University,https://ror.org/04pp8hn57,https://ror.org/03wvf6198,University Museum Utrecht,Child,Release
+458,https://github.com/ror-community/ror-updates/issues/458,"Add a new organization to ROR: 
+ 
+MAIN CENTER OF SPECIAL MONITORING",Main Center of Special Monitoring,https://ror.org/01pexdp78,https://ror.org/04ev01y75,State Space Agency of Ukraine,Parent,Production
+458,https://github.com/ror-community/ror-updates/issues/458,"Add a new organization to ROR: 
+ 
+MAIN CENTER OF SPECIAL MONITORING",State Space Agency of Ukraine,https://ror.org/04ev01y75,https://ror.org/01pexdp78,Main Center of Special Monitoring,Child,Release
+468,https://github.com/ror-community/ror-updates/issues/468,"Add a new organization to ROR: 
+ 
+Deutsches Zentrum für Integration- und Migrationsforschung",German Center for Integration and Migration Research,https://ror.org/0179ync51,https://ror.org/056ja1h98,"Federal Ministry for Family Affairs, Senior Citizens, Women and Youth",Parent,Production
+468,https://github.com/ror-community/ror-updates/issues/468,"Add a new organization to ROR: 
+ 
+Deutsches Zentrum für Integration- und Migrationsforschung","Federal Ministry for Family Affairs, Senior Citizens, Women and Youth",https://ror.org/056ja1h98,https://ror.org/0179ync51,German Center for Integration and Migration Research,Child,Release
+475,https://github.com/ror-community/ror-updates/issues/475,"Add a new organization to ROR: 
+ 
+State Institution  “Institute for Economics and Forecasting, National Academy of Sciences of Ukraine”",Institute for Economics and Forecasting of the National Academy of Sciences of Ukraine,https://ror.org/02vf1t589,https://ror.org/00je4t102,National Academy of Sciences of Ukraine,Parent,Production
+475,https://github.com/ror-community/ror-updates/issues/475,"Add a new organization to ROR: 
+ 
+State Institution  “Institute for Economics and Forecasting, National Academy of Sciences of Ukraine”",National Academy of Sciences of Ukraine,https://ror.org/00je4t102,https://ror.org/02vf1t589,Institute for Economics and Forecasting of the National Academy of Sciences of Ukraine,Child,Release
+565,https://github.com/ror-community/ror-updates/issues/565,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,Punta Galeta Marine Laboratory,https://ror.org/02dzza612,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+565,https://github.com/ror-community/ror-updates/issues/565,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/02dzza612,Punta Galeta Marine Laboratory,Child,Release
+565,https://github.com/ror-community/ror-updates/issues/565,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,Punta Galeta Marine Laboratory,https://ror.org/02dzza612,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+565,https://github.com/ror-community/ror-updates/issues/565,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/02dzza612,Punta Galeta Marine Laboratory,Child,Release
+568,https://github.com/ror-community/ror-updates/issues/568,Add a new organization to ROR:  Max Planck Institute for Neurobiology of Behavior – caesar,Max Planck Institute for Neurobiology of Behavior – caesar,https://ror.org/030rhcq56,https://ror.org/01hhn8329,Max Planck Society,Parent,Production
+568,https://github.com/ror-community/ror-updates/issues/568,Add a new organization to ROR:  Max Planck Institute for Neurobiology of Behavior – caesar,Max Planck Society,https://ror.org/01hhn8329,https://ror.org/030rhcq56,Max Planck Institute for Neurobiology of Behavior – caesar,Child,Release
+559,https://github.com/ror-community/ror-updates/issues/559,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,Fortuna Field Station,https://ror.org/05s45j557,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+559,https://github.com/ror-community/ror-updates/issues/559,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/05s45j557,Fortuna Field Station,Child,Release
+559,https://github.com/ror-community/ror-updates/issues/559,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,Fortuna Field Station,https://ror.org/05s45j557,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+559,https://github.com/ror-community/ror-updates/issues/559,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/05s45j557,Fortuna Field Station,Child,Release
+560,https://github.com/ror-community/ror-updates/issues/560,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,Punta Culebra Nature Center,https://ror.org/01ge7v435,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+560,https://github.com/ror-community/ror-updates/issues/560,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/01ge7v435,Punta Culebra Nature Center,Child,Release
+560,https://github.com/ror-community/ror-updates/issues/560,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,Punta Culebra Nature Center,https://ror.org/01ge7v435,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+560,https://github.com/ror-community/ror-updates/issues/560,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/01ge7v435,Punta Culebra Nature Center,Child,Release
+561,https://github.com/ror-community/ror-updates/issues/561,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,Naos Marine and Molecular Laboratories,https://ror.org/007yfgf06,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+561,https://github.com/ror-community/ror-updates/issues/561,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/007yfgf06,Naos Marine and Molecular Laboratories,Child,Release
+561,https://github.com/ror-community/ror-updates/issues/561,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,Naos Marine and Molecular Laboratories,https://ror.org/007yfgf06,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+561,https://github.com/ror-community/ror-updates/issues/561,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/007yfgf06,Naos Marine and Molecular Laboratories,Child,Release
+562,https://github.com/ror-community/ror-updates/issues/562,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,Gamboa Laboratories,https://ror.org/05sffn795,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+562,https://github.com/ror-community/ror-updates/issues/562,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/05sffn795,Gamboa Laboratories,Child,Release
+562,https://github.com/ror-community/ror-updates/issues/562,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,Gamboa Laboratories,https://ror.org/05sffn795,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+562,https://github.com/ror-community/ror-updates/issues/562,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/05sffn795,Gamboa Laboratories,Child,Release
+563,https://github.com/ror-community/ror-updates/issues/563,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,Coibita Island,https://ror.org/02jq1vf72,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+563,https://github.com/ror-community/ror-updates/issues/563,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/02jq1vf72,Coibita Island,Child,Release
+563,https://github.com/ror-community/ror-updates/issues/563,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,Coibita Island,https://ror.org/02jq1vf72,https://ror.org/035jbxr46,Smithsonian Tropical Research Institute,Parent,Production
+563,https://github.com/ror-community/ror-updates/issues/563,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,Smithsonian Tropical Research Institute,https://ror.org/035jbxr46,https://ror.org/02jq1vf72,Coibita Island,Child,Release
+564,https://github.com/ror-community/ror-updates/issues/564,Modify the information in an existing ROR record: Bocas del Toro Research Station - https://ror.org/02ftc8763,Bocas del Toro Research Station,https://ror.org/02ftc8763,https://ror.org/01pp8nd67,Smithsonian Institution,Parent,Production
+564,https://github.com/ror-community/ror-updates/issues/564,Modify the information in an existing ROR record: Bocas del Toro Research Station - https://ror.org/02ftc8763,Smithsonian Institution,https://ror.org/01pp8nd67,https://ror.org/02ftc8763,Bocas del Toro Research Station,Child,Release
+597,https://github.com/ror-community/ror-updates/issues/597,Add a new organization to ROR: UK Health Security Agency,UK Health Security Agency,https://ror.org/008eafk18,https://ror.org/03sbpja79,Department of Health and Social Care,Parent,Production
+597,https://github.com/ror-community/ror-updates/issues/597,Add a new organization to ROR: UK Health Security Agency,Department of Health and Social Care,https://ror.org/03sbpja79,https://ror.org/008eafk18,UK Health Security Agency,Child,Release
+14,https://github.com/ror-community/ror-updates/issues/14,Add a new organization to ROR: Yellowstone National Park,Yellowstone National Park,https://ror.org/02990ad17,https://ror.org/044zqqy65,National Park Service,Parent,Production
+14,https://github.com/ror-community/ror-updates/issues/14,Add a new organization to ROR: Yellowstone National Park,National Park Service,https://ror.org/044zqqy65,https://ror.org/02990ad17,Yellowstone National Park,Child,Release
+15,https://github.com/ror-community/ror-updates/issues/15,Add a new organization to ROR: Grand Teton National Park,Grant Teton National Park,https://ror.org/02ahkve83,https://ror.org/044zqqy65,National Park Service,Parent,Production
+15,https://github.com/ror-community/ror-updates/issues/15,Add a new organization to ROR: Grand Teton National Park,National Park Service,https://ror.org/044zqqy65,https://ror.org/02ahkve83,Grant Teton National Park,Child,Release
+17,https://github.com/ror-community/ror-updates/issues/17,Add a new organization to ROR: FitzPatrick Institute of African Ornithology,FitzPatrick Institute of African Ornithology,https://ror.org/037f7jf27,https://ror.org/03p74gp79,University of Cape Town,Related,Production
+17,https://github.com/ror-community/ror-updates/issues/17,Add a new organization to ROR: FitzPatrick Institute of African Ornithology,University of Cape Town,https://ror.org/03p74gp79,https://ror.org/037f7jf27,FitzPatrick Institute of African Ornithology,Related,Release
+19,https://github.com/ror-community/ror-updates/issues/19,Add a new organization to ROR: Yale Peabody Museum,Yale Peabody Museum,https://ror.org/037fwf062,https://ror.org/03v76x132,Yale University,Parent,Production
+19,https://github.com/ror-community/ror-updates/issues/19,Add a new organization to ROR: Yale Peabody Museum,Yale University,https://ror.org/03v76x132,https://ror.org/037fwf062,Yale Peabody Museum,Child,Release

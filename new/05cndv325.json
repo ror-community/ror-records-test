@@ -1,0 +1,61 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "Fundación GIFET"
+  ],
+  "acronyms": [
+    "GIFET"
+  ],
+  "links": [
+    "https://fundaciongifet.wordpress.com/"
+  ],
+  "wikipedia_url": null,
+  "external_ids": {},
+  "established": 2020,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/05cndv325",
+  "labels": [],
+  "status": "active",
+  "name": "Fundación Grupo para la Investigación Formación y Edición Transdisciplinar",
+  "types": [
+    "Nonprofit"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 3632998,
+        "city": "Maracay",
+        "geonames_admin1": {
+          "name": "Aragua",
+          "ascii_name": "Aragua",
+          "id": 3649110,
+          "code": "VE.04"
+        },
+        "geonames_admin2": {
+          "name": "Municipio Girardot",
+          "ascii_name": "Municipio Girardot",
+          "id": 3640595,
+          "code": "VE.04.0503"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 10.23535,
+      "lng": -67.59113,
+      "country_geonames_id": 3625428,
+      "city": "Maracay"
+    }
+  ],
+  "country": {
+    "country_name": "Venezuela",
+    "country_code": "VE"
+  }
+}

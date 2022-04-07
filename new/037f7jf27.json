@@ -1,0 +1,78 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "Percy FitzPatrick Institute of African Ornithology"
+  ],
+  "acronyms": [],
+  "links": [
+    "http://www.fitzpatrick.uct.ac.za/"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Percy_FitzPatrick_Institute_of_African_Ornithology",
+  "external_ids": {
+    "ISNI": {
+      "preferred": "0000 0001 1017 4395",
+      "all": [
+        "0000 0001 1017 4395"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q2070244",
+      "all": [
+        "Q2070244"
+      ]
+    },
+    "FundRef": {
+      "preferred": "5.011E+11",
+      "all": [
+        "5.011E+11"
+      ]
+    }
+  },
+  "established": 1960,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/037f7jf27",
+  "labels": [],
+  "status": "active",
+  "name": "FitzPatrick Institute of African Ornithology",
+  "types": [
+    "Nonprofit"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 3369157,
+        "city": "Cape Town",
+        "geonames_admin1": {
+          "name": "Western Cape",
+          "ascii_name": "Western Cape",
+          "id": 1085599,
+          "code": "ZA.11"
+        },
+        "geonames_admin2": {
+          "name": "City of Cape Town",
+          "ascii_name": "City of Cape Town",
+          "id": 8334583,
+          "code": "ZA.11.CPT"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": -33.92584,
+      "lng": 18.42322,
+      "country_geonames_id": 953987,
+      "city": "Cape Town"
+    }
+  ],
+  "country": {
+    "country_name": "South Africa",
+    "country_code": "ZA"
+  }
+}

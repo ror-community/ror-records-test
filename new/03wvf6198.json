@@ -1,0 +1,79 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "Universiteitsmuseum Utrecht"
+  ],
+  "acronyms": [
+    "UMU"
+  ],
+  "links": [
+    "https://umu.nl/"
+  ],
+  "wikipedia_url": "https://nl.wikipedia.org/wiki/Universiteitsmuseum_(Utrecht)",
+  "external_ids": {
+    "ISNI": {
+      "preferred": "0000 0001 2110 5571",
+      "all": [
+        "0000 0001 2110 5571"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q14510918",
+      "all": [
+        "Q14510918"
+      ]
+    }
+  },
+  "established": 1928,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/03wvf6198",
+  "labels": [
+    {
+      "label": "Universiteitsmuseum Utrecht",
+      "iso639": "nl"
+    }
+  ],
+  "status": "active",
+  "name": "University Museum Utrecht",
+  "types": [
+    "Archive"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2745911,
+        "city": "Gemeente Utrecht",
+        "geonames_admin1": {
+          "name": "Utrecht",
+          "ascii_name": "Utrecht",
+          "id": 2745909,
+          "code": "NL.09"
+        },
+        "geonames_admin2": {
+          "name": "Utrecht",
+          "ascii_name": "Utrecht",
+          "id": 2745911,
+          "code": "NL.09.0344"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 52.09675,
+      "lng": 5.03708,
+      "country_geonames_id": 2750405,
+      "city": "Gemeente Utrecht"
+    }
+  ],
+  "country": {
+    "country_name": "Netherlands",
+    "country_code": "NL"
+  }
+}

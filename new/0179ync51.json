@@ -1,0 +1,71 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "DeZIM"
+  ],
+  "links": [
+    "https://www.dezim-institut.de/"
+  ],
+  "wikipedia_url": "https://de.wikipedia.org/wiki/Deutsches_Zentrum_für_Integrations-_und_Migrationsforschung",
+  "external_ids": {
+    "ISNI": {
+      "preferred": "0000 0004 8156 6283",
+      "all": [
+        "0000 0004 8156 6283"
+      ]
+    },
+    "Wikidata": {
+      "preferred": "Q110812948",
+      "all": [
+        "Q110812948"
+      ]
+    }
+  },
+  "established": 2017,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/0179ync51",
+  "labels": [
+    {
+      "label": "Deutsches Zentrum für Integrations- und Migrationsforschung",
+      "iso639": "de"
+    }
+  ],
+  "status": "active",
+  "name": "German Center for Integration and Migration Research",
+  "types": [
+    "Government"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2950159,
+        "city": "Berlin",
+        "geonames_admin1": {
+          "name": "Berlin",
+          "ascii_name": "Berlin",
+          "id": 2950157,
+          "code": "DE.16"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 52.52437,
+      "lng": 13.41053,
+      "country_geonames_id": 2921044,
+      "city": "Berlin"
+    }
+  ],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  }
+}

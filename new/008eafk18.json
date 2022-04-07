@@ -1,0 +1,66 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "UKHSA"
+  ],
+  "links": [
+    "https://www.gov.uk/government/organisations/uk-health-security-agency"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/UK_Health_Security_Agency",
+  "external_ids": {
+    "Wikidata": {
+      "preferred": "Q104336949",
+      "all": [
+        "Q104336949"
+      ]
+    }
+  },
+  "established": 2020,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/008eafk18",
+  "labels": [],
+  "status": "active",
+  "name": "UK Health Security Agency",
+  "types": [
+    "Government"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2643743,
+        "city": "London",
+        "geonames_admin1": {
+          "name": "England",
+          "ascii_name": "England",
+          "id": 6269131,
+          "code": "GB.ENG"
+        },
+        "geonames_admin2": {
+          "name": "Greater London",
+          "ascii_name": "Greater London",
+          "id": 2648110,
+          "code": "GB.ENG.GLA"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 51.50853,
+      "lng": -0.12574,
+      "country_geonames_id": 2635167,
+      "city": "London"
+    }
+  ],
+  "country": {
+    "country_name": "United Kingdom",
+    "country_code": "GB"
+  }
+}

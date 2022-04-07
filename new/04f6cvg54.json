@@ -1,0 +1,66 @@
+{
+  "ip_addresses": [],
+  "aliases": [
+    "Kamioka Gravitational Wave Detector"
+  ],
+  "acronyms": [],
+  "links": [
+    "https://gwcenter.icrr.u-tokyo.ac.jp/en/"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/KAGRA",
+  "external_ids": {
+    "Wikidata": {
+      "preferred": "Q725081",
+      "all": [
+        "Q725081"
+      ]
+    }
+  },
+  "established": 2020,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/04f6cvg54",
+  "labels": [],
+  "status": "active",
+  "name": "KAGRA",
+  "types": [
+    "Facility"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 11611937,
+        "city": "Hida",
+        "geonames_admin1": {
+          "name": "Gifu",
+          "ascii_name": "Gifu",
+          "id": 1863640,
+          "code": "JP.09"
+        },
+        "geonames_admin2": {
+          "name": "Hida Shi",
+          "ascii_name": "Hida Shi",
+          "id": 7419032,
+          "code": "JP.09.7419032"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 36.24483,
+      "lng": 137.17323,
+      "country_geonames_id": 1861060,
+      "city": "Hida"
+    }
+  ],
+  "country": {
+    "country_name": "Japan",
+    "country_code": "JP"
+  }
+}

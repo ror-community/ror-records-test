@@ -1,0 +1,59 @@
+{
+  "ip_addresses": [],
+  "aliases": [],
+  "acronyms": [
+    "MPINB"
+  ],
+  "links": [
+    "https://mpinb.mpg.de/"
+  ],
+  "wikipedia_url": "https://de.wikipedia.org/wiki/Max-Planck-Institut_für_Neurobiologie_des_Verhaltens_-_caesar",
+  "external_ids": {},
+  "established": 2022,
+  "relationships": [],
+  "email_address": null,
+  "id": "https://ror.org/030rhcq56",
+  "labels": [],
+  "status": "active",
+  "name": "Max Planck Institute for Neurobiology of Behavior – caesar",
+  "types": [
+    "Facility"
+  ],
+  "addresses": [
+    {
+      "state_code": null,
+      "state": null,
+      "primary": false,
+      "postcode": null,
+      "line": null,
+      "geonames_city": {
+        "id": 2946447,
+        "city": "Bonn",
+        "geonames_admin1": {
+          "name": "North Rhine-Westphalia",
+          "ascii_name": "North Rhine-Westphalia",
+          "id": 2861876,
+          "code": "DE.07"
+        },
+        "geonames_admin2": {
+          "name": "Cologne District",
+          "ascii_name": "Cologne District",
+          "id": 2886241,
+          "code": "DE.07.053"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      "lat": 50.73438,
+      "lng": 7.09549,
+      "country_geonames_id": 2921044,
+      "city": "Bonn"
+    }
+  ],
+  "country": {
+    "country_name": "Germany",
+    "country_code": "DE"
+  }
+}
