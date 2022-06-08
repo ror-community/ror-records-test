@@ -25,7 +25,7 @@ jobs:
         if: "${{ github.event.inputs.directory-name == '' }}"
         run: echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
       - name: Update labels in related records
-        id: updatelabelss
+        id: updatelabels
         working-directory: ${{ env.WORKING_DIR }}
         run: |
           python -m pip install --upgrade pip
