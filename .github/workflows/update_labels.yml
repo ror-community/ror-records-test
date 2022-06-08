@@ -26,7 +26,6 @@ jobs:
         run: echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
       - name: Update labels in related records
         id: updatelabels
-        if: ${{ steps.genrelshp.outcome == 'success'}}
         working-directory: ${{ env.WORKING_DIR }}
         run: |
           python -m pip install --upgrade pip
