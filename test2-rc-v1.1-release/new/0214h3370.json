@@ -10,18 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2017,
-  "relationships": [
-    {
-      "label": "ERN Board of Member States",
-      "type": "Parent",
-      "id": "https://ror.org/00r7apq26"
-    },
-    {
-      "label": "Hospices Civils de Lyon",
-      "type": "Related",
-      "id": "https://ror.org/01502ca60"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0214h3370",
   "labels": [],

@@ -22,13 +22,7 @@
     }
   },
   "established": 1968,
-  "relationships": [
-    {
-      "label": "Polytechnic University of Tirana",
-      "type": "Related",
-      "id": "https://ror.org/05aec4025"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/003f21n80",
   "labels": [],

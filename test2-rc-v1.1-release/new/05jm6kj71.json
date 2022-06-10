@@ -25,13 +25,7 @@
     }
   },
   "established": 2009,
-  "relationships": [
-    {
-      "label": "Max Weber Stiftung - Deutsche Geisteswissenschaftliche Institute im Ausland",
-      "type": "Parent",
-      "id": "https://ror.org/02esxtn62"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05jm6kj71",
   "labels": [

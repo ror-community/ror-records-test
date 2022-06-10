@@ -19,13 +19,7 @@
     }
   },
   "established": 2022,
-  "relationships": [
-    {
-      "label": "Leibniz Association",
-      "type": "Parent",
-      "id": "https://ror.org/01n6r0e97"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00xn1pr13",
   "labels": [

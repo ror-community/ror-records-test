@@ -17,13 +17,7 @@
     }
   },
   "established": 1963,
-  "relationships": [
-    {
-      "label": "National Agency for New Technologies, Energy and Sustainable Economic Development",
-      "type": "Parent",
-      "id": "https://ror.org/02an8es95"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/023q8n217",
   "labels": [

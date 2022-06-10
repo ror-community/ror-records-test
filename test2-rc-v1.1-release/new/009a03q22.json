@@ -18,13 +18,7 @@
     }
   },
   "established": 1958,
-  "relationships": [
-    {
-      "label": "State Space Agency of Ukraine",
-      "type": "Parent",
-      "id": "https://ror.org/04ev01y75"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/009a03q22",
   "labels": [

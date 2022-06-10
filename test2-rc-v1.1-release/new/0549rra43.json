@@ -17,13 +17,7 @@
     }
   },
   "established": 1986,
-  "relationships": [
-    {
-      "label": "Inuit Tapiriit Kanatami",
-      "type": "Related",
-      "id": "https://ror.org/05k87xn20"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/0549rra43",
   "labels": [],

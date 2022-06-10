@@ -23,13 +23,7 @@
     }
   },
   "established": 1953,
-  "relationships": [
-    {
-      "label": "Federal Medical-Biological Agency",
-      "type": "Parent",
-      "id": "https://ror.org/052ay8m85"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03bw8s353",
   "labels": [

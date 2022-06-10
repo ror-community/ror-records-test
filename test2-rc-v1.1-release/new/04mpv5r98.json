@@ -10,13 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2007,
-  "relationships": [
-    {
-      "label": "Long Term Ecological Research Network",
-      "type": "Related",
-      "id": "https://ror.org/039kwqk96"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04mpv5r98",
   "labels": [

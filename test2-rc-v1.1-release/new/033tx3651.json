@@ -17,18 +17,7 @@
     }
   },
   "established": 2020,
-  "relationships": [
-    {
-      "label": "Kamioka Observatory",
-      "type": "Child",
-      "id": "https://ror.org/04djymq25"
-    },
-    {
-      "label": "Institute for Cosmic Ray Research",
-      "type": "Parent",
-      "id": "https://ror.org/008td3p62"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/033tx3651",
   "labels": [
