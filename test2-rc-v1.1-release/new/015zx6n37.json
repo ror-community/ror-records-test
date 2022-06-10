@@ -17,13 +17,7 @@
     }
   },
   "established": 2018,
-  "relationships": [
-    {
-      "label": "Princess Margaret Hospital for Children",
-      "type": "Related",
-      "id": "https://ror.org/04ec98z42"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/015zx6n37",
   "labels": [],

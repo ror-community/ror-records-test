@@ -25,13 +25,7 @@
     }
   },
   "established": 1996,
-  "relationships": [
-    {
-      "label": "Norwegian University of Science and Technology",
-      "type": "Related",
-      "id": "https://ror.org/05xg72x27"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/01tvrq624",
   "labels": [],

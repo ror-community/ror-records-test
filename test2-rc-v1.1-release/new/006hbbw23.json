@@ -23,13 +23,7 @@
     }
   },
   "established": 1957,
-  "relationships": [
-    {
-      "label": "Ohio University",
-      "type": "Parent",
-      "id": "https://ror.org/01jr3y717"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/006hbbw23",
   "labels": [],

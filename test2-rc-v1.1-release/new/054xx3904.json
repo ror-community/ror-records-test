@@ -24,13 +24,7 @@
     }
   },
   "established": 2006,
-  "relationships": [
-    {
-      "label": "CERCA Institution",
-      "type": "Parent",
-      "id": "https://ror.org/01bkbaq61"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/054xx3904",
   "labels": [

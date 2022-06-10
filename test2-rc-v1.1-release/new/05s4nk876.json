@@ -10,18 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2017,
-  "relationships": [
-    {
-      "label": "ERN Board of Member States",
-      "type": "Parent",
-      "id": "https://ror.org/00r7apq26"
-    },
-    {
-      "label": "Leiden University Medical Center",
-      "type": "Related",
-      "id": "https://ror.org/05xvt9f17"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05s4nk876",
   "labels": [],

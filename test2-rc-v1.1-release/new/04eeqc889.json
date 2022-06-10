@@ -29,13 +29,7 @@
     }
   },
   "established": 1940,
-  "relationships": [
-    {
-      "label": "William & Mary",
-      "type": "Related",
-      "id": "https://ror.org/03hsf0573"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04eeqc889",
   "labels": [],
