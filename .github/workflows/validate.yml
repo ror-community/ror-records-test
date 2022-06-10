@@ -41,6 +41,7 @@ jobs:
           cd validation-suite
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          ls ../files/
           if [[ ${{ github.event.inputs.with-relationship }} == "true" ]]; then
             if [[ -f "../${{ env.WORKING_DIR }}/**relationships.csv" ]]; then
               python run_validations.py -i ../files -f ../${{ env.WORKING_DIR }}/**relationships.csv -p ../files/
