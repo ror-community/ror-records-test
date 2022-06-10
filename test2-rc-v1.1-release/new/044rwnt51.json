@@ -17,18 +17,7 @@
     }
   },
   "established": 2013,
-  "relationships": [
-    {
-      "label": "European Bioinformatics Institute",
-      "type": "Related",
-      "id": "https://ror.org/02catss52"
-    },
-    {
-      "label": "National Bioinformatics Infrastructure Sweden",
-      "type": "Child",
-      "id": "https://ror.org/00enajs79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/044rwnt51",
   "labels": [],

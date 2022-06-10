@@ -19,13 +19,7 @@
     }
   },
   "established": 1998,
-  "relationships": [
-    {
-      "label": "International Water Association",
-      "type": "Parent",
-      "id": "https://ror.org/027xkck76"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/029kfxt47",
   "labels": [],

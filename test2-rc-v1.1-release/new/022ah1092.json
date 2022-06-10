@@ -23,13 +23,7 @@
     }
   },
   "established": 1977,
-  "relationships": [
-    {
-      "label": "Centrum Badań Kosmicznych",
-      "type": "Related",
-      "id": "https://ror.org/03zm2br59"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/022ah1092",
   "labels": [

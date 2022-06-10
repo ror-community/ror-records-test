@@ -29,13 +29,7 @@
     }
   },
   "established": 1960,
-  "relationships": [
-    {
-      "label": "University of Cape Town",
-      "type": "Related",
-      "id": "https://ror.org/03p74gp79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/05rgme147",
   "labels": [],

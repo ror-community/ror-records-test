@@ -23,13 +23,7 @@
     }
   },
   "established": 2004,
-  "relationships": [
-    {
-      "label": "Humboldt-Universität zu Berlin",
-      "type": "Related",
-      "id": "https://ror.org/01hcx6992"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/038t2yw28",
   "labels": [

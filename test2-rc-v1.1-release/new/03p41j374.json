@@ -10,13 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2017,
-  "relationships": [
-    {
-      "label": "Moi University",
-      "type": "Related",
-      "id": "https://ror.org/04p6eac84"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/03p41j374",
   "labels": [],

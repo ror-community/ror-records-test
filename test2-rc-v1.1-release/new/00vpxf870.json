@@ -21,13 +21,7 @@
     }
   },
   "established": 1950,
-  "relationships": [
-    {
-      "label": "National Park Service",
-      "type": "Parent",
-      "id": "https://ror.org/044zqqy65"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/00vpxf870",
   "labels": [],

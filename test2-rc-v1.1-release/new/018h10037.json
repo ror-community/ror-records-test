@@ -17,13 +17,7 @@
     }
   },
   "established": 2020,
-  "relationships": [
-    {
-      "label": "Department of Health and Social Care",
-      "type": "Parent",
-      "id": "https://ror.org/03sbpja79"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/018h10037",
   "labels": [],

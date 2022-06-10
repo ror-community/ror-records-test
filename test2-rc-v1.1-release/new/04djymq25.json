@@ -15,13 +15,7 @@
     }
   },
   "established": 1983,
-  "relationships": [
-    {
-      "label": "KAGRA",
-      "type": "Parent",
-      "id": "https://ror.org/033tx3651"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04djymq25",
   "labels": [

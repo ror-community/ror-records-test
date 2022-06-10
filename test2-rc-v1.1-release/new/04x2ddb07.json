@@ -10,18 +10,7 @@
   "wikipedia_url": null,
   "external_ids": {},
   "established": 2017,
-  "relationships": [
-    {
-      "label": "ERN Board of Member States",
-      "type": "Parent",
-      "id": "https://ror.org/00r7apq26"
-    },
-    {
-      "label": "University Hospital Heidelberg",
-      "type": "Related",
-      "id": "https://ror.org/013czdx64"
-    }
-  ],
+  "relationships": [],
   "email_address": null,
   "id": "https://ror.org/04x2ddb07",
   "labels": [],
