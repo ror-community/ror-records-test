@@ -1,0 +1,99 @@
+{
+  "id": "https://ror.org/00gsmyw97",
+  "name": "Central Avian Research Institute",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1979,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 28.36678,
+      "lng": 79.43167,
+      "state": null,
+      "state_code": null,
+      "city": "Bareilly",
+      "geonames_city": {
+        "id": 1277013,
+        "city": "Bareilly",
+        "geonames_admin1": {
+          "name": "Uttar Pradesh",
+          "id": 1253626,
+          "ascii_name": "Uttar Pradesh",
+          "code": "IN.36"
+        },
+        "geonames_admin2": {
+          "name": "Bareilly district",
+          "id": 1277014,
+          "ascii_name": "Bareilly district",
+          "code": "IN.36.150"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "https://icar.org.in/cari/index.php"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CARI"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Avian_Research_Institute",
+  "labels": [
+    {
+      "label": "केन्द्रीय पक्षी अनुसंधान संस्थान",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1764 5112"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q5060404"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505927.c",
+      "all": "grid.505927.c"
+    }
+  }
+}

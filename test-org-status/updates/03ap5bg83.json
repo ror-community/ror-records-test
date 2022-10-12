@@ -1,0 +1,108 @@
+{
+  "id": "https://ror.org/03ap5bg83",
+  "name": "National Dairy Research Institute",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1923,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 29.69197,
+      "lng": 76.98448,
+      "state": null,
+      "state_code": null,
+      "city": "Karnāl",
+      "geonames_city": {
+        "id": 1267708,
+        "city": "Karnāl",
+        "geonames_admin1": {
+          "name": "Haryana",
+          "id": 1270260,
+          "ascii_name": "Haryana",
+          "code": "IN.10"
+        },
+        "geonames_admin2": {
+          "name": "Karnal",
+          "id": 1267709,
+          "ascii_name": "Karnal",
+          "code": "IN.10.074"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.ndri.res.in/ndri/Design/Index.html"
+  ],
+  "aliases": [
+    "Imperial Institute of Animal Husbandry and Dairying",
+    "Imperial Dairy Institute"
+  ],
+  "acronyms": [
+    "NDRI"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/National_Dairy_Research_Institute",
+  "labels": [
+    {
+      "label": "राष्ट्रीय डेरी अनुसंधान संस्थान",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0001 2114 9718"
+      ]
+    },
+    "OrgRef": {
+      "preferred": null,
+      "all": [
+        "18078164"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q6972092"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.419332.e",
+      "all": "grid.419332.e"
+    }
+  }
+}

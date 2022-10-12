@@ -1,0 +1,99 @@
+{
+  "id": "https://ror.org/02pnvb171",
+  "name": "National Bureau of Agriculturally Important Microorganisms",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2001,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 25.94167,
+      "lng": 83.56111,
+      "state": null,
+      "state_code": null,
+      "city": "Mau",
+      "geonames_city": {
+        "id": 1263311,
+        "city": "Mau",
+        "geonames_admin1": {
+          "name": "Uttar Pradesh",
+          "id": 1253626,
+          "ascii_name": "Uttar Pradesh",
+          "code": "IN.36"
+        },
+        "geonames_admin2": {
+          "name": "Mau",
+          "id": 7729750,
+          "ascii_name": "Mau",
+          "code": "IN.36.192"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://nbaim.org.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "NBAIM"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "कृषि के लिए महत्वपूर्ण सूक्ष्मजीवों के राष्ट्रीय ब्यूरो",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1756 3301"
+      ]
+    },
+    "FundRef": {
+      "preferred": null,
+      "all": [
+        "501100005912"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.464948.3",
+      "all": "grid.464948.3"
+    }
+  }
+}

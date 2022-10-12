@@ -1,9 +1,9 @@
 {
-  "id": "https://ror.org/00rq8ty33",
-  "name": "National Research Centre for Banana",
+  "id": "https://ror.org/04gtdp803",
+  "name": "Central Inland Fisheries Research Institute",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1993,
+  "established": 1947,
   "types": [
     "Facility"
   ],
@@ -16,26 +16,29 @@
   ],
   "addresses": [
     {
-      "lat": 10.8155,
-      "lng": 78.69651,
+      "lat": 22.76602,
+      "lng": 88.36336,
       "state": null,
       "state_code": null,
-      "country_geonames_id": 1269750,
-      "city": "Tiruchi",
+      "city": "Bārākpur",
       "geonames_city": {
-        "id": 1254388,
-        "city": "Tiruchi",
+        "id": 1277100,
+        "city": "Bārākpur",
         "geonames_admin1": {
-          "name": "Tamil Nadu",
-          "ascii_name": "Tamil Nadu",
-          "id": 1255053,
-          "code": "IN.25"
+          "name": "West Bengal",
+          "id": 1252881,
+          "ascii_name": "West Bengal",
+          "code": "IN.28"
         },
         "geonames_admin2": {
-          "name": "Tiruchirappalli",
-          "id": 1254389,
-          "ascii_name": "Tiruchirappalli",
-          "code": "IN.25.614"
+          "name": "North 24 Parganas",
+          "id": 8335144,
+          "ascii_name": "North 24 Parganas",
+          "code": "IN.28.337"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
         },
         "nuts_level1": {
           "name": null,
@@ -48,25 +51,22 @@
         "nuts_level3": {
           "name": null,
           "code": null
-        },
-        "license": {
-          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
-          "license": "http://creativecommons.org/licenses/by/3.0/"
         }
       },
-      "primary": false,
       "postcode": null,
-      "line": null
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
     }
   ],
   "links": [
-    "http://www.nrcb.res.in/"
+    "http://www.cifri.res.in/"
   ],
   "aliases": [],
   "acronyms": [
-    "NRCB"
+    "CIFRI"
   ],
-  "status": "withdrawn",
+  "status": "active",
   "wikipedia_url": "",
   "labels": [],
   "country": {
@@ -77,12 +77,12 @@
     "ISNI": {
       "preferred": null,
       "all": [
-        "0000 0004 1768 7371"
+        "0000 0004 1768 6299"
       ]
     },
     "GRID": {
-      "preferred": "grid.465009.e",
-      "all": "grid.465009.e"
+      "preferred": "grid.466516.6",
+      "all": "grid.466516.6"
     }
   }
 }

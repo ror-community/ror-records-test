@@ -1,0 +1,96 @@
+{
+  "id": "https://ror.org/05vm6r550",
+  "name": "Indian Institute of Soybean Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1987,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 22.71792,
+      "lng": 75.8333,
+      "state": null,
+      "state_code": null,
+      "city": "Indore",
+      "geonames_city": {
+        "id": 1269743,
+        "city": "Indore",
+        "geonames_admin1": {
+          "name": "Madhya Pradesh",
+          "id": 1264542,
+          "ascii_name": "Madhya Pradesh",
+          "code": "IN.35"
+        },
+        "geonames_admin2": {
+          "name": "Indore district",
+          "id": 1269744,
+          "ascii_name": "Indore district",
+          "code": "IN.35.439"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "https://iisrindore.icar.gov.in/"
+  ],
+  "aliases": [
+    "National Research Centre for Soybean",
+    "Directorate of Soybean Research"
+  ],
+  "acronyms": [
+    "IISR"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "भारतीय सोयाबीन अनुसंधान संस्थान",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1764 5075"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505955.9",
+      "all": "grid.505955.9"
+    }
+  }
+}

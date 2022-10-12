@@ -1,0 +1,97 @@
+{
+  "id": "https://ror.org/02hzb7188",
+  "name": "Directorate of Weed Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1952,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 23.16697,
+      "lng": 79.95006,
+      "state": null,
+      "state_code": null,
+      "city": "Jabalpur",
+      "geonames_city": {
+        "id": 1269633,
+        "city": "Jabalpur",
+        "geonames_admin1": {
+          "name": "Madhya Pradesh",
+          "id": 1264542,
+          "ascii_name": "Madhya Pradesh",
+          "code": "IN.35"
+        },
+        "geonames_admin2": {
+          "name": "Jabalpur district",
+          "id": 1269634,
+          "ascii_name": "Jabalpur district",
+          "code": "IN.35.451"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.dwr.org.in"
+  ],
+  "aliases": [
+    "National Research Centre for Weed Science",
+    "Directorate of Weed Science Research"
+  ],
+  "acronyms": [
+    "DWR",
+    "DWSR"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "खरपतवार अनुसंधान निदेशालय",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1755 9708"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505956.a",
+      "all": "grid.505956.a"
+    }
+  }
+}

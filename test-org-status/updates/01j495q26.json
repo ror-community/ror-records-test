@@ -1,0 +1,82 @@
+{
+  "id": "https://ror.org/01j495q26",
+  "name": "Central Institute for Research on Cattle",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1987,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 28.98002,
+      "lng": 77.70636,
+      "state": null,
+      "state_code": null,
+      "city": "Meerut",
+      "geonames_city": {
+        "id": 1263214,
+        "city": "Meerut",
+        "geonames_admin1": {
+          "name": "Uttar Pradesh",
+          "id": 1253626,
+          "ascii_name": "Uttar Pradesh",
+          "code": "IN.36"
+        },
+        "geonames_admin2": {
+          "name": "Meerut",
+          "id": 1263215,
+          "ascii_name": "Meerut",
+          "code": "IN.36.138"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.circ.org.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CIRC"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "GRID": {
+      "preferred": "grid.473638.d",
+      "all": "grid.473638.d"
+    }
+  }
+}

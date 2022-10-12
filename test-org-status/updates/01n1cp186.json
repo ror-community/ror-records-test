@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/01n1cp186",
+  "name": "Central Institute for Research on Goats",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1979,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 27.32081,
+      "lng": 77.76185,
+      "state": null,
+      "state_code": null,
+      "city": "Farah",
+      "geonames_city": {
+        "id": 1271956,
+        "city": "Farah",
+        "geonames_admin1": {
+          "name": "Uttar Pradesh",
+          "id": 1253626,
+          "ascii_name": "Uttar Pradesh",
+          "code": "IN.36"
+        },
+        "geonames_admin2": {
+          "name": "Mathura district",
+          "id": 1263366,
+          "ascii_name": "Mathura district",
+          "code": "IN.36.145"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://cirg.res.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "CIRG"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "केन्द्रीय बकरी अनुसंधान संस्थान",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 0506 7781"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505929.2",
+      "all": "grid.505929.2"
+    }
+  }
+}

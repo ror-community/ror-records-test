@@ -1,0 +1,95 @@
+{
+  "id": "https://ror.org/018jrds86",
+  "name": "Directorate of Cashew Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1950,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 13.33467,
+      "lng": 74.74617,
+      "state": null,
+      "state_code": null,
+      "city": "Udupi",
+      "geonames_city": {
+        "id": 1253952,
+        "city": "Udupi",
+        "geonames_admin1": {
+          "name": "Karnataka",
+          "id": 1267701,
+          "ascii_name": "Karnataka",
+          "code": "IN.19"
+        },
+        "geonames_admin2": {
+          "name": "Udupi",
+          "id": 8224051,
+          "ascii_name": "Udupi",
+          "code": "IN.19.569"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "https://cashew.icar.gov.in/"
+  ],
+  "aliases": [
+    "National Research Centre For Cashew"
+  ],
+  "acronyms": [
+    "DCR"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "काजू अनुसंधान निदेशालय",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1764 470X"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505948.5",
+      "all": "grid.505948.5"
+    }
+  }
+}

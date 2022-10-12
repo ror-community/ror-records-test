@@ -1,0 +1,93 @@
+{
+  "id": "https://ror.org/04kswek43",
+  "name": "ICAR-Indian Institute of Agricultural Biotechnology",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 2014,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 23.34316,
+      "lng": 85.3094,
+      "state": null,
+      "state_code": null,
+      "city": "Ranchi",
+      "geonames_city": {
+        "id": 1258526,
+        "city": "Ranchi",
+        "geonames_admin1": {
+          "name": "Jharkhand",
+          "id": 1444365,
+          "ascii_name": "Jharkhand",
+          "code": "IN.38"
+        },
+        "geonames_admin2": {
+          "name": "Ranchi",
+          "id": 1258527,
+          "ascii_name": "Ranchi",
+          "code": "IN.38.364"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "https://iiab.icar.gov.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "IIAB"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "भा.कृ.अनु.प. भारतीय कृषि जैवप्रौद्योगिकी संस्थान",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q19891886"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.512334.2",
+      "all": "grid.512334.2"
+    }
+  }
+}

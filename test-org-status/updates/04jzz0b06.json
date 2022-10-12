@@ -1,0 +1,100 @@
+{
+  "id": "https://ror.org/04jzz0b06",
+  "name": "National Research Centre on Equines",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1986,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 29.15394,
+      "lng": 75.72294,
+      "state": null,
+      "state_code": null,
+      "city": "Hisar",
+      "geonames_city": {
+        "id": 1270022,
+        "city": "Hisar",
+        "geonames_admin1": {
+          "name": "Haryana",
+          "id": 1270260,
+          "ascii_name": "Haryana",
+          "code": "IN.10"
+        },
+        "geonames_admin2": {
+          "name": "Hisar",
+          "id": 1270023,
+          "ascii_name": "Hisar",
+          "code": "IN.10.080"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://nrce.nic.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "NRCE"
+  ],
+  "status": "active",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/National_Research_Centre_on_Equines",
+  "labels": [],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1768 7902"
+      ]
+    },
+    "OrgRef": {
+      "preferred": null,
+      "all": [
+        "18678515"
+      ]
+    },
+    "Wikidata": {
+      "preferred": null,
+      "all": [
+        "Q6978046"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.462601.7",
+      "all": "grid.462601.7"
+    }
+  }
+}

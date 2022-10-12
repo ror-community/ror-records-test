@@ -1,9 +1,9 @@
 {
-  "id": "https://ror.org/00rq8ty33",
-  "name": "National Research Centre for Banana",
+  "id": "https://ror.org/00jgd4s13",
+  "name": "Central Institute for Research on Cotton Technology",
   "email_address": null,
   "ip_addresses": [],
-  "established": 1993,
+  "established": 1924,
   "types": [
     "Facility"
   ],
@@ -16,26 +16,29 @@
   ],
   "addresses": [
     {
-      "lat": 10.8155,
-      "lng": 78.69651,
+      "lat": 21.14631,
+      "lng": 79.08491,
       "state": null,
       "state_code": null,
-      "country_geonames_id": 1269750,
-      "city": "Tiruchi",
+      "city": "Nagpur",
       "geonames_city": {
-        "id": 1254388,
-        "city": "Tiruchi",
+        "id": 1262180,
+        "city": "Nagpur",
         "geonames_admin1": {
-          "name": "Tamil Nadu",
-          "ascii_name": "Tamil Nadu",
-          "id": 1255053,
-          "code": "IN.25"
+          "name": "Maharashtra",
+          "id": 1264418,
+          "ascii_name": "Maharashtra",
+          "code": "IN.16"
         },
         "geonames_admin2": {
-          "name": "Tiruchirappalli",
-          "id": 1254389,
-          "ascii_name": "Tiruchirappalli",
-          "code": "IN.25.614"
+          "name": "Nagpur",
+          "id": 8131500,
+          "ascii_name": "Nagpur",
+          "code": "IN.16.505"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
         },
         "nuts_level1": {
           "name": null,
@@ -48,25 +51,24 @@
         "nuts_level3": {
           "name": null,
           "code": null
-        },
-        "license": {
-          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
-          "license": "http://creativecommons.org/licenses/by/3.0/"
         }
       },
-      "primary": false,
       "postcode": null,
-      "line": null
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
     }
   ],
   "links": [
-    "http://www.nrcb.res.in/"
+    "http://circot.res.in/circot/"
   ],
-  "aliases": [],
+  "aliases": [
+    "Technological Laboratory"
+  ],
   "acronyms": [
-    "NRCB"
+    "CIRCOT"
   ],
-  "status": "withdrawn",
+  "status": "active",
   "wikipedia_url": "",
   "labels": [],
   "country": {
@@ -77,12 +79,12 @@
     "ISNI": {
       "preferred": null,
       "all": [
-        "0000 0004 1768 7371"
+        "0000 0001 2301 0701"
       ]
     },
     "GRID": {
-      "preferred": "grid.465009.e",
-      "all": "grid.465009.e"
+      "preferred": "grid.482244.c",
+      "all": "grid.482244.c"
     }
   }
 }

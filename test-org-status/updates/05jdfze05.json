@@ -1,0 +1,91 @@
+{
+  "id": "https://ror.org/05jdfze05",
+  "name": "Indian Institute of Soil and Water Conservation",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1974,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 30.32443,
+      "lng": 78.03392,
+      "state": null,
+      "state_code": null,
+      "city": "Dehradun",
+      "geonames_city": {
+        "id": 1273313,
+        "city": "Dehradun",
+        "geonames_admin1": {
+          "name": "Uttarakhand",
+          "id": 1444366,
+          "ascii_name": "Uttarakhand",
+          "code": "IN.39"
+        },
+        "geonames_admin2": {
+          "name": "Dehradun",
+          "id": 9072830,
+          "ascii_name": "Dehradun",
+          "code": "IN.39.060"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.cswcrtiweb.org/"
+  ],
+  "aliases": [
+    "Central Soil and Water Conservation Research and Training Institute"
+  ],
+  "acronyms": [
+    "IISWC",
+    "CSWCRTI"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1761 0817"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.464537.7",
+      "all": "grid.464537.7"
+    }
+  }
+}

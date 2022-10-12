@@ -1,0 +1,87 @@
+{
+  "id": "https://ror.org/02xh2ys40",
+  "name": "National Research Centre on Camel",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1995,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 28.01762,
+      "lng": 73.31495,
+      "state": null,
+      "state_code": null,
+      "city": "Bikaner",
+      "geonames_city": {
+        "id": 1275665,
+        "city": "Bikaner",
+        "geonames_admin1": {
+          "name": "Rajasthan",
+          "id": 1258899,
+          "ascii_name": "Rajasthan",
+          "code": "IN.24"
+        },
+        "geonames_admin2": {
+          "name": "Bikaner",
+          "id": 1275666,
+          "ascii_name": "Bikaner",
+          "code": "IN.24.101"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.nrccamel.res.in/"
+  ],
+  "aliases": [],
+  "acronyms": [
+    "NRCC"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "राष्ट्रीय उष्ट्र अनुसंधान केन्द्र",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "GRID": {
+      "preferred": "grid.465023.6",
+      "all": "grid.465023.6"
+    }
+  }
+}

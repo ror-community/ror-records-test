@@ -1,0 +1,96 @@
+{
+  "id": "https://ror.org/01mz7kc73",
+  "name": "Directorate of Rapeseed-Mustard Research",
+  "email_address": null,
+  "ip_addresses": [],
+  "established": 1993,
+  "types": [
+    "Facility"
+  ],
+  "relationships": [
+    {
+      "label": "Indian Council of Agricultural Research Name Updated",
+      "type": "Parent",
+      "id": "https://ror.org/04fw54a43"
+    }
+  ],
+  "addresses": [
+    {
+      "lat": 27.21731,
+      "lng": 77.49009,
+      "state": null,
+      "state_code": null,
+      "city": "Bharatpur",
+      "geonames_city": {
+        "id": 1276128,
+        "city": "Bharatpur",
+        "geonames_admin1": {
+          "name": "Rajasthan",
+          "id": 1258899,
+          "ascii_name": "Rajasthan",
+          "code": "IN.24"
+        },
+        "geonames_admin2": {
+          "name": "Bharatpur",
+          "id": 1276130,
+          "ascii_name": "Bharatpur",
+          "code": "IN.24.105"
+        },
+        "license": {
+          "attribution": "Data from geonames.org under a CC-BY 3.0 license",
+          "license": "http://creativecommons.org/licenses/by/3.0/"
+        },
+        "nuts_level1": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level2": {
+          "name": null,
+          "code": null
+        },
+        "nuts_level3": {
+          "name": null,
+          "code": null
+        }
+      },
+      "postcode": null,
+      "primary": false,
+      "line": null,
+      "country_geonames_id": 1269750
+    }
+  ],
+  "links": [
+    "http://www.drmr.res.in/"
+  ],
+  "aliases": [
+    "National Research Centre on Rapeseed-Mustard"
+  ],
+  "acronyms": [
+    "NRCRM",
+    "DRMR"
+  ],
+  "status": "active",
+  "wikipedia_url": "",
+  "labels": [
+    {
+      "label": "सरसों अनुसंधान निदेशालय",
+      "iso639": "hi"
+    }
+  ],
+  "country": {
+    "country_name": "India",
+    "country_code": "IN"
+  },
+  "external_ids": {
+    "ISNI": {
+      "preferred": null,
+      "all": [
+        "0000 0004 1768 6555"
+      ]
+    },
+    "GRID": {
+      "preferred": "grid.505951.d",
+      "all": "grid.505951.d"
+    }
+  }
+}
