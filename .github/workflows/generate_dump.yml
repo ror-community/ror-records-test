@@ -48,7 +48,7 @@ jobs:
       - name: copy new data dump file
         id: copynewdump
         run: |
-          yes | cp -rf ./ror-records-test/${{github.event.inputs.new-release}}*.zip ./ror-data-test
+          yes | cp -rf ./dev-ror-records/${{github.event.inputs.new-release}}*.zip ./ror-data-test
       - name: commit dump file
         id: commitdumpfile
         if: ${{ steps.copynewdump.outcome == 'success'}}
