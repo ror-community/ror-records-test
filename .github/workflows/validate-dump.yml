@@ -60,6 +60,11 @@ jobs:
             echo "validating v2"
             python run_validations.py -i ../${{ env.WORKING_DIR }}/${{ github.event.inputs.file-name}} -v 2 -s ror_schema_v2_0.json
           fi
+      - name: cat error file
+        if: ${{ steps.valiadatefiles.outcome != 'success'}}
+        run: |
+          echo "ERRORS found for some records:"
+          cat validation_errors.log
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
