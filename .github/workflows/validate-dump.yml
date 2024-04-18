@@ -43,7 +43,7 @@ jobs:
         if: "${{ github.event.inputs.directory-name == '' }}"
         run: echo "WORKING_DIR=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
       - name: Validate files
-        id: validatefiles
+        id: validatedump
         run: |
           echo ${{ github.event.inputs.schema-version}}
           cd validation-suite
@@ -60,10 +60,6 @@ jobs:
             echo "validating v2"
             python run_validations.py -i ../${{ env.WORKING_DIR }}/${{ github.event.inputs.file-name}} -v 2 -s ror_schema_v2_0.json
           fi
-      - name: cat error file
-        run: |
-          echo "ERRORS found for some records:"
-          cat validation_errors.log
       - name: Notify Slack
         if: always()
         uses: edge/simple-slack-notify@master
@@ -72,4 +68,4 @@ jobs:
         with:
           channel: '#ror-curation-releases'
           color: 'good'
-          text: 'Dump validation status ${{ steps.validatefiles.outcome }} in ${env.GITHUB_REPOSITORY}. Using version ${{ github.event.inputs.schema-version }}. On branch: ${{ env.WORKING_DIR }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
+          text: 'Dump validation status ${{ steps.validatedump.outcome }} in ${env.GITHUB_REPOSITORY}. Using version ${{ github.event.inputs.schema-version }}. On branch: ${{ env.WORKING_DIR }}. Please check: ${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}'
